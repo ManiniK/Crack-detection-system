@@ -1,0 +1,9 @@
+train: D:\trinit\Japan\train
+val: D:\trinit\Japan\train
+
+nc: 4
+names: 
+    ["0",
+    "1",
+    "2",
+    "3"]
